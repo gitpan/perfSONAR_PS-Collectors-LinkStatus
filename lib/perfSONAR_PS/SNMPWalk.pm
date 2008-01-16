@@ -12,7 +12,7 @@
 
 package perfSONAR_PS::SNMPWalk;
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 use Net::SNMP v5.1.0 qw(:snmp DEBUG_ALL);
 use Exporter;
