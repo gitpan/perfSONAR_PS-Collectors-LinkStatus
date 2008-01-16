@@ -20,7 +20,7 @@ use perfSONAR_PS::SNMPWalk;
 
 use fields 'CONF', 'DIRECTORY', 'CLIENT', 'LINKS', 'LINKSBYID', 'SNMPAGENTS';
 
-use version; our $VERSION = qv("0.01");
+our $VERSION = 0.01;
 
 my %link_prev_update_status = ();
 

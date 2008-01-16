@@ -1,5 +1,7 @@
 package perfSONAR_PS::Collectors::LinkStatus::Agent::Constant;
 
+our $VERSION = 0.01;
+
 use strict;
 
 sub new($$$$) {

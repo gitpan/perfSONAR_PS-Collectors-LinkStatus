@@ -1,5 +1,7 @@
 package perfSONAR_PS::Collectors::LinkStatus::Status;
 
+our $VERSION = 0.01;
+
 use perfSONAR_PS::Status::Common;
 
 use strict;

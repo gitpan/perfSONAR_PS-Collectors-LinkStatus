@@ -1,5 +1,7 @@
 package perfSONAR_PS::Collectors::LinkStatus::Link;
 
+our $VERSION = 0.01;
+
 use strict;
 use warnings;
 use Log::Log4perl qw(get_logger);

@@ -1,6 +1,8 @@
 package perfSONAR_PS::Collectors::LinkStatus::Agent::Script;
 use Log::Log4perl qw(get_logger);
 
+our $VERSION = 0.01;
+
 use strict;
 
 sub new($$$$) {
