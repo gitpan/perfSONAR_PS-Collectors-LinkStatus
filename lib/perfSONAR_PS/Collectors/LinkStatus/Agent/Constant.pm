@@ -1,6 +1,6 @@
 package perfSONAR_PS::Collectors::LinkStatus::Agent::Constant;
 
-our $VERSION = 0.05;
+our $VERSION = 0.06;
 
 use strict;
 
